@@ -28,7 +28,6 @@ install.packages(pkgs)
 
 ## Contents
 
-There are two key directories. 
 
 1. `R`: 
     - this contains the R files used to generate the data and R models that the plumber API is based on. These are ordered from 01 to 03. Run these in order.
